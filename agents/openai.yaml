@@ -1,0 +1,5 @@
+interface:
+  display_name: "Type Strategy Director"
+  short_description: "Audience-led font strategy using typographic semiotics"
+  default_prompt: "Build an evidence-aware type strategy from my audience, category, emotion, era, cultural context, and usage needs; recommend 3-5 distinct typeface directions and a representative specimen concept."
+
